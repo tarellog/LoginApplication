@@ -1,4 +1,4 @@
-package com.example.loginapplication.ui.theme
+package com.example.loginapplication.core.theme
 
 import androidx.compose.runtime.Immutable
 import androidx.compose.ui.unit.Dp
@@ -23,4 +23,5 @@ data class Dimensions(
     val dp20: Dp = 20.dp,
     val dp22: Dp = 22.dp,
     val dp24: Dp = 24.dp,
+    val dp30: Dp = 30.dp,
 )
